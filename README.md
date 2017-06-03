@@ -24,9 +24,9 @@ Assembly and analysis of the data is documented in Jupyter-notebooks. To reprodu
 
 + [Shared RAD-seq data in c85d5f2_min4_s3k](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/blob/master/c85d5f2_min4_s3k_datasharing.html)  
 
-+ [Tree+structure pharma](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/figures/blob/master/pharma-tree-struct-html)  
++ [Tree+structure pharma](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/blob/master/figures/pharma-tree-struct-html)  
 
-+ [Tree+structure americana](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/figures/blob/master/americana-tree-struct-html)  
++ [Tree+structure americana](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/blob/master/figures/americana-tree-struct-html)  
 
 
 
