@@ -20,9 +20,6 @@ Assembly and analysis of the data is documented in Jupyter-notebooks. To reprodu
 + [NB6: Admixture: ABBA-BABA analysis](http://nbviewer.jupyter.org/github/dereneaton/ficus-rad/blob/master/Ficus-Jander-analysis-baba.ipynb)
 
 
-+ [Shared RAD-seq data in c85d5f2_min4_s3k](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-\
-rad/blob/master/c85d5f2_min4_s3k_datasharing.html)
-
 #### Links to figures outside of notebooks
 
 + [Shared RAD-seq data in c85d5f2_min4_s3k](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/blob/master/c85d5f2_min4_s3k_datasharing.html)  
