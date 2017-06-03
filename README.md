@@ -28,6 +28,6 @@ Assembly and analysis of the data is documented in Jupyter-notebooks. To reprodu
 
 + [Tree+structure americana](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/blob/master/figures/americana-tree-struct-html)  
 
-
++ [Tree+Structure Americana](http://htmlpreview.github.io/?https://github.com/dereneaton/ficus-rad/blob/master/figures/americana-tree-struct.html)
 
 
